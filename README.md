@@ -19,5 +19,10 @@ A horror-themed maze game built using **R** and **Shiny**.
 2. Open `app.R` in RStudio
 3. Click "Run App"
 
+### 🕹 Gameplay Preview
+![Gameplay](assets/smround1)
+![Gameplay](assets/smround2)
+![Gameplay](assets/smround3)
+
 ### 💡 Created by
 Neha Gundubogula 
